@@ -2,11 +2,12 @@ rencana hidup
 
 makan nasi
 makan mie
-makan orang
 makan sayur
   * oseng
   * bayam
 makan hewan
+  * ayam
+  * ikan
 makan seblak 
   * kering
   * basah
