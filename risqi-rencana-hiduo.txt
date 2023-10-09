@@ -4,6 +4,10 @@ makan nasi
 makan mie
 makan orang
 makan sayur
+  * oseng
+  * bayam
 makan hewan
 makan seblak 
+  * kering
 makan telor
+makan tahu
