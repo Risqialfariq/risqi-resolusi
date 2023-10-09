@@ -5,3 +5,5 @@ makan mie
 makan orang
 makan sayur
 makan hewan
+makan seblak 
+makan telor
