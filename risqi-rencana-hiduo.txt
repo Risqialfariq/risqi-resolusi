@@ -2,8 +2,11 @@ rencana hidup
 
 makan nasi
 makan mie
-makan orang
 makan sayur
 makan hewan
+  * ayam
+  * ikan
 makan seblak 
+  * basah
+  * kering
 makan telor
