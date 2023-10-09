@@ -3,10 +3,13 @@ rencana hidup
 makan nasi
 makan mie
 makan sayur
+  * oseng
+  * bayam
 makan hewan
   * ayam
   * ikan
 makan seblak 
-  * basah
   * kering
+  * basah
 makan telor
+makan tahu
