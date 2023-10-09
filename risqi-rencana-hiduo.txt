@@ -9,5 +9,6 @@ makan sayur
 makan hewan
 makan seblak 
   * kering
+  * basah
 makan telor
 makan tahu
